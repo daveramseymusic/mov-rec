@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mov-rec"
+  site-url: "https://daveramseymusic.github.io/mov-rec"
+  description: "this is my 3rd attempt to use nbdev and put my movie recommender using fastai here"
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/mov-rec"
